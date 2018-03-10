@@ -1,0 +1,17 @@
+{
+  "name": "cleanup",
+  "version": "1.0.0",
+  "description": "Puts all your unorganized files in a folder, grouped by its extensions",
+  "main": "cleanup.js",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "scripts": {
+    "lint": "eslint cleanup.js"
+  },
+  "engines": {
+    "node": ">=8.5.0"
+  }
+}
